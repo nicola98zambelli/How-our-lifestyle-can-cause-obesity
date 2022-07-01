@@ -1,0 +1,2 @@
+https://stats.oarc.ucla.edu/r/dae/ordinal-logistic-regression/
+https://www.datacamp.com/community/tutorials/decision-trees-R
